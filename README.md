@@ -1,1 +1,1 @@
-# SQL-Kickstarter-Analysis
+# Kickstarter-Analysis
