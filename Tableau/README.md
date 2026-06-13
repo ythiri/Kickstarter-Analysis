@@ -7,5 +7,5 @@ Click here to view the interactive dashboard:
 
 ## Dashboard Preview
 
-![Dashboard Preview](<img width="449" height="373" alt="YoonThiriKickstarterAnalysisD1" src="https://github.com/user-attachments/assets/835e10fb-0ae3-4f1d-81f8-67c364464431" />
+![Dashboard Preview](<img width="449" height="373" alt="YoonThiriKickstarterAnalysisD1" src="https://github.com/user-attachments/assets/a482d7ae-fa20-4897-869f-0b71bc75d159" />
 )
