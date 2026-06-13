@@ -7,5 +7,4 @@ Click here to view the interactive dashboard:
 
 ## Dashboard Preview
 
-![Dashboard Preview](<img width="449" height="373" alt="YoonThiriKickstarterAnalysisD1" src="https://github.com/user-attachments/assets/a482d7ae-fa20-4897-869f-0b71bc75d159" />
-)
+![Dashboard Preview](https://public.tableau.com/static/images/"C:\Users\yoont\Documents\Porfolio Project 2\YoonThiriKickstarterAnalysisD1.png")
