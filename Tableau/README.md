@@ -1,3 +1,4 @@
+
 ## Live Dashboard
 
 Click here to view the interactive dashboard:  
@@ -7,4 +8,4 @@ Click here to view the interactive dashboard:
 
 ## Dashboard Preview
 
-![Dashboard Preview](https://public.tableau.com/static/images/"C:\Users\yoont\Documents\Porfolio Project 2\YoonThiriKickstarterAnalysisD1.png")
+![Dashboard Preview](dashboard.png)
