@@ -1,4 +1,4 @@
-# Kickstarter-Analysis
+# Kickstarter Analysis
 
 ## Executive Summary
 
