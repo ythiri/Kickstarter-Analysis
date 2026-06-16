@@ -10,7 +10,7 @@ To understand the factors that influence the outcomes of Kickstarter campaigns, 
 
 ## Business Problem
 
-Kickstarter is a crowdfunding platform for creators, small businesses, and early-stage startups that helps raise capital for projects and innovative ideas. The platform, however, uses what is known as an “all-or-nothing” funding model. Under this model, creators and businesses only receive funds if their funding goal is met or exceeded. In other words, there are only two possible outcomes: a campaign either reaches its funding goal and receives the pledged amount (success) or it receives no funding at all (failure). Given these outcomes, an important question arises: what factors contribute to the success or failure of Kickstarter campaigns?
+Kickstarter is a crowdfunding platform for individuals, small businesses, and early-stage startups that helps raise capital for projects and innovative ideas. The platform, however, uses what is known as an “all-or-nothing” funding model. Under this model, individuals and businesses only receive funds if their funding goal is met or exceeded. In other words, there are only two possible outcomes: a campaign either reaches its funding goal and receives the pledged amount (success) or it receives no funding at all (failure). Given these outcomes, an important question arises: what factors contribute to the success or failure of Kickstarter campaigns?
 
 ## Methodology
 
