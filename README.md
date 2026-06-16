@@ -32,7 +32,7 @@ Consider shorter campaign durations. The 1–15 day range demonstrates the highe
 
 Set appropriate funding goals that balance achievability with project requirements. Smaller funding goals account for a larger proportion of campaigns that meet or exceed their targets. However, larger campaigns are still attainable, as campaigns with funding goals of $20,000 or more represent 13.84% of projects that achieve at least 150% of their goal. Therefore, funding goals should be set at a level that is realistic to achieve while still being sufficient to cover project needs and fulfill commitments to backers.  
 
-Compare the campaign against main category benchmarks using KPIs and performance metrics. Category performance varies significantly, and no single category consistently dominates across all metrics.  
+Compare the campaigns against main category benchmarks using KPIs and performance metrics. Category performance varies significantly, and no single category consistently dominates across all metrics.  
 
 ## Next Steps
 
