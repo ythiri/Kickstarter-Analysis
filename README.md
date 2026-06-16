@@ -14,8 +14,8 @@ Kickstarter is a crowdfunding platform for creators, small businesses, and early
 
 ## Methodology
 
-SQL queries were used to extract, clean, and transform the data from the original Kaggle dataset.  
-Tableau dashboards were then built using the SQL outputs to conduct exploratory data analysis, develop visualizations, and generate insights and recommendations.  
+- SQL queries were used to extract, clean, and transform the data from the original Kaggle dataset.  
+- Tableau dashboards were then built using the SQL outputs to conduct exploratory data analysis, develop visualizations, and generate insights and recommendations.  
 
 ## Skills
 
