@@ -41,3 +41,6 @@ Since this project is primarily an exploratory analysis and does not focus on a 
 - Define a target campaign or project while accounting for key factors influencing campaign outcomes  
 - Apply more targeted filtering and sorting to refine the analysis  
 - Perform category-level analysis for deeper insights
+
+---
+Created by Yoon Thiri
