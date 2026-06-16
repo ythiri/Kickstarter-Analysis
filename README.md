@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-To understand the factors that influence the outcomes of Kickstarter campaigns, SQL and Tableau were used to conduct exploratory data analysis and develop visualizations that generate actionable insights. The analysis found that shorter campaign durations and smaller funding goal sizes are associated with higher success rates. Based on these findings, the following key considerations are recommended when developing a campaign:
+To understand the factors that influence the outcomes of Kickstarter campaigns, SQL and Tableau were used to conduct exploratory data analysis and develop visualizations that generate actionable insights. The analysis found that shorter campaign durations and smaller funding goal sizes are associated with higher success rates. Based on these findings, the following key considerations are recommended when developing a Kickstarter campaign:
 
 - Shorter campaign durations, particularly within the 1–15 day range  
 - Adequate funding targets that balance feasibility with project requirements  
