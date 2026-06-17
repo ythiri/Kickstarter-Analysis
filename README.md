@@ -28,7 +28,10 @@ There is no significant difference in success rates across the 12 months in whic
 
 The amount contributed by backers does not appear to strongly correlate with campaign success or failure. Campaigns in the “goal achieved” and “exceeded goal” categories had a lower average pledged per backer compared to campaigns in the “below goal” and “near goal” categories.  
 
-Consider shorter campaign durations. The 1–15 day range demonstrates the highest success rate at approximately 48%. This duration range also shows the highest proportion of campaigns that exceed their funding goals. Therefore, setting shorter campaign timelines may be more effective in improving the likelihood of reaching or surpassing funding targets.  
+Consider shorter campaign durations. The 1–15 day range demonstrates the highest success rate at approximately 48%. This duration range also shows the highest proportion of campaigns that exceed their funding goals. Therefore, setting shorter campaign timelines may be more effective in improving the likelihood of reaching or surpassing funding targets. 
+
+![Insight Graph](<img width="211" height="154" alt="YoonThiriKickstarterCampaignDuration" src="https://github.com/user-attachments/assets/0bc18e35-0374-4ab6-aeaa-67578b777c52" />
+)
 
 Set appropriate funding goals that balance achievability with project requirements. Smaller funding goals account for a larger proportion of campaigns that meet or exceed their targets. However, larger campaigns are still attainable, as campaigns with funding goals of $20,000 or more represent 13.84% of projects that achieve at least 150% of their goal. Therefore, funding goals should be set at a level that is realistic to achieve while still being sufficient to cover project needs and fulfill commitments to backers.  
 
