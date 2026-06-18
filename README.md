@@ -33,9 +33,11 @@ Consider shorter campaign durations. The 1–15 day range demonstrates the highe
 <img width="394" height="281" alt="YoonThiriKickstarterCampaignDuration" src="https://github.com/user-attachments/assets/a7d87ceb-ae70-4370-9ad6-2be2d2f738be" />
 
 
+
 Set appropriate funding goals that balance achievability with project requirements. Smaller funding goals account for a larger proportion of campaigns that meet or exceed their targets. However, larger campaigns are still attainable, as campaigns with funding goals of $20,000 or more represent 13.84% of projects that achieve at least 150% of their goal. Therefore, funding goals should be set at a level that is realistic to achieve while still being sufficient to cover project needs and fulfill commitments to backers.  
 
 <img width="394" height="293" alt="image" src="https://github.com/user-attachments/assets/cf73f522-9fb5-4840-a160-d1d5b654e8e4" />
+
 
 
 Compare the campaigns against main category benchmarks using KPIs and performance metrics. Category performance varies significantly, and no single category consistently dominates across all metrics.  
