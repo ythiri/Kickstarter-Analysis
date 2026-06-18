@@ -30,8 +30,7 @@ The amount contributed by backers does not appear to strongly correlate with cam
 
 Consider shorter campaign durations. The 1–15 day range demonstrates the highest success rate at approximately 48%. This duration range also shows the highest proportion of campaigns that exceed their funding goals. Therefore, setting shorter campaign timelines may be more effective in improving the likelihood of reaching or surpassing funding targets. 
 
-<img width="524" height="377" alt="YoonThiriKickstarterCampaignDuration" src="https://github.com/user-attachments/assets/cf4fe99c-3823-4fa8-8200-ad4c2230b69c" />
-
+<img width="394" height="281" alt="YoonThiriKickstarterCampaignDuration" src="https://github.com/user-attachments/assets/a7d87ceb-ae70-4370-9ad6-2be2d2f738be" />
 
 
 Set appropriate funding goals that balance achievability with project requirements. Smaller funding goals account for a larger proportion of campaigns that meet or exceed their targets. However, larger campaigns are still attainable, as campaigns with funding goals of $20,000 or more represent 13.84% of projects that achieve at least 150% of their goal. Therefore, funding goals should be set at a level that is realistic to achieve while still being sufficient to cover project needs and fulfill commitments to backers.  
